@@ -69,7 +69,7 @@ public class SlideMove : MonoBehaviour
 
         if (moveInput != 0 && !isMoving && jumpSpeed == 0f && isGrounded)
         {
-            if (!isSliding) StartSliding();
+            if (!isSliding && onIce) StartSliding();
             StopAllCoroutines();
             StartCoroutine(CanMoving());
             isMoving = true;
@@ -241,6 +241,13 @@ public class SlideMove : MonoBehaviour
                 StartSliding();
             }
         }
+
+        // Uncomment this 
+        //if(collision.collider.CompareTag("Ground"))
+        //{
+        //    onIce = false;
+        //    StopSliding();
+        //}
     }
 
     void OnCollisionStay2D(Collision2D collision)
