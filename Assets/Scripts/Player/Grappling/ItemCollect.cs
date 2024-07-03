@@ -1,5 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class ItemCollect : MonoBehaviour, IDataAction
@@ -22,7 +20,7 @@ public class ItemCollect : MonoBehaviour, IDataAction
 
     public void Awake()
     {
-        tutorial.SetActive(false);
+        if(tutorial != null) tutorial.SetActive(false);
         audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
         actionable = actionScript as IItemCollection;
         isCollected = false;
@@ -35,7 +33,7 @@ public class ItemCollect : MonoBehaviour, IDataAction
     {
         if (collision.CompareTag("Player") && !isCollected)
         {
-            tutorial.SetActive(true);
+            if (tutorial != null) tutorial.SetActive(true);
             audioManager.PlaySFX(audioManager.collectitem);
             isCollected = true;
             actionable.activeItem();

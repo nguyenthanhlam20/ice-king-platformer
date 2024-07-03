@@ -1,12 +1,11 @@
 ﻿using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
 public class Freeze : MonoBehaviour
 {
     public Image healthBar;
-    public float healthAmount = 100f;
+    public float healthAmount = 1000f;
 
     public Sprite normalSprite;
     public Sprite skatingSprite;
@@ -15,7 +14,7 @@ public class Freeze : MonoBehaviour
     private bool isFire = false;
 
     private Animator animator;
-    private Move move;
+    //private Move move;
     private bool cloth = true;
     private SlideMove slideMove;
     private bool isFreezeSoundPlayed = false;
@@ -25,7 +24,7 @@ public class Freeze : MonoBehaviour
     {
         spriteRenderer = GetComponent<SpriteRenderer>();
         animator = GetComponent<Animator>();
-        move = GetComponent<Move>();
+        //move = GetComponent<Move>();
         slideMove = GetComponent<SlideMove>();
         spriteRenderer.sprite = normalSprite;
         audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
@@ -44,7 +43,7 @@ public class Freeze : MonoBehaviour
         if (healthAmount == 0 && !isFreezeSoundPlayed)
         {
             spriteRenderer.sprite = skatingSprite;
-            move.enabled = false;
+            //move.enabled = false;
             animator.enabled = false;
             audioManager.PlaySFX(audioManager.freeze);
             isFreezeSoundPlayed = true; // Đánh dấu là âm thanh freeze đã được phát
@@ -58,10 +57,10 @@ public class Freeze : MonoBehaviour
             }
         }
 
-        if (spriteRenderer.sprite == skatingSprite && healthAmount == 100)
+        if (spriteRenderer.sprite == skatingSprite && healthAmount == 1000)
         {
                 spriteRenderer.sprite = normalSprite; //Trở lại hình ảnh bình thường
-                move.enabled = true;
+                //move.enabled = true;
                 animator.enabled = true;
                 audioManager.PlaySFX(audioManager.crackingIce);
                 isFreezeSoundPlayed = false; // Đặt lại trạng thái của biến isFreezeSoundPlayed
@@ -73,14 +72,14 @@ public class Freeze : MonoBehaviour
     {
         healthAmount -= dmg; // Giảm máu khi gần fire
         if (healthAmount < 0) healthAmount = 0;
-        healthBar.fillAmount = healthAmount / 100f; // Cập nhật thanh máu trên UI
+        healthBar.fillAmount = healthAmount / healthAmount; // Cập nhật thanh máu trên UI
     }
 
     public void Heal(float heal)
     {
         healthAmount += heal; // Tăng máu khi xa fire
-        healthAmount = Mathf.Clamp(healthAmount, 0, 100); // Giới hạn giá trị máu
-        healthBar.fillAmount = healthAmount / 100f;
+        healthAmount = Mathf.Clamp(healthAmount, 0, healthAmount); // Giới hạn giá trị máu
+        healthBar.fillAmount = healthAmount / healthAmount;
     }
 
     private void OnTriggerEnter2D(Collider2D collision)

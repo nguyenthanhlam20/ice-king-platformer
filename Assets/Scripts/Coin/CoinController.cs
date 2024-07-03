@@ -1,8 +1,5 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-using static UnityEditor.Timeline.TimelinePlaybackControls;
 
 public class CoinController : MonoBehaviour, IItemCollection
 {
@@ -37,7 +34,7 @@ public class CoinController : MonoBehaviour, IItemCollection
     // Update is called once per frame
     void Update()
     {
-        coinText.text = ": " + coinCout.ToString();
+        if (coinText != null) coinText.text = ": " + coinCout.ToString();
         if (coinCout == 3)
         {
             CircleCollider2D.enabled = true;
