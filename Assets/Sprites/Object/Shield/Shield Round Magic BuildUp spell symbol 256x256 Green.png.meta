@@ -1,0 +1,1236 @@
+fileFormatVersion: 2
+guid: fab5f14b608e7d54ea82d085c7dd6f14
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shield Round Magic BuildUp spell symbol 256x256 Green_0
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 956
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35cdb03a1ec0b034488ce64e993d16cd
+      internalID: -914716533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic BuildUp spell symbol 256x256 Green_1
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 967
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc5b3460239dae43b34c8cd0479a932
+      internalID: -1675272955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic BuildUp spell symbol 256x256 Green_2
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 970
+        width: 36
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081066da9a714a742a4dd234307cb575
+      internalID: -281290936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic BuildUp spell symbol 256x256 Green_3
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 966
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd752b8c1d34e704f9a9bb5999765353
+      internalID: 1035347416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic BuildUp spell symbol 256x256 Green_4
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 968
+        width: 54
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beabdd7c402e40f4ba484e813893449c
+      internalID: -1976982537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic BuildUp spell symbol 256x256 Green_5
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 965
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388d5cf3505d95847bee5c04d627192a
+      internalID: 467456580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic BuildUp spell symbol 256x256 Green_6
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 810
+        width: 165
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c9b62aed3c6e64d9341931e8b339f0
+      internalID: -1148320894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic BuildUp spell symbol 256x256 Green_7
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 949
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2eb1882b1ef55d45964592aecd7776f
+      internalID: -1002836226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic BuildUp spell symbol 256x256 Green_8
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 910
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8711bebf552b443981d38d40e5bd3d
+      internalID: 2002592530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic BuildUp spell symbol 256x256 Green_9
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 904
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957bf605039c3d34db3e8ed93b04fda1
+      internalID: -1518677329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic BuildUp spell symbol 256x256 Green_10
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 906
+        width: 113
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f0e319952dc1f4ebf52d8252875c10
+      internalID: -1303463381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic BuildUp spell symbol 256x256 Green_11
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 924
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f8fc3d266c35d49a11770465128dbf
+      internalID: -619089440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic BuildUp spell symbol 256x256 Green_12
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 919
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66829d75bdc434f40a8db84d9653fd54
+      internalID: -698971148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic BuildUp spell symbol 256x256 Green_13
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 927
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd8ed798d3021949bd719ad5699a8ae
+      internalID: -304458441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic BuildUp spell symbol 256x256 Green_14
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 919
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687f788381bcefa4681b558c9dc2c4c2
+      internalID: 1607819681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic BuildUp spell symbol 256x256 Green_15
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 918
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f1d9fd3dafa6a4ca930d36fd99c0c6
+      internalID: 195343194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic BuildUp spell symbol 256x256 Green_16
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 912
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd04f8ea471f72439293ea16e7c8954
+      internalID: 1530410449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic BuildUp spell symbol 256x256 Green_17
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 925
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f22e897fd00f824a8a2af9db233cd3b
+      internalID: 981066064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic BuildUp spell symbol 256x256 Green_18
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 914
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd486529c5c79574a8733fad8bb0637b
+      internalID: -741985907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic BuildUp spell symbol 256x256 Green_19
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 876
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ee09c8aed52eb478b68b6a14efdeb4
+      internalID: 1069946178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic BuildUp spell symbol 256x256 Green_20
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 873
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6890ff0c3b46ae140b1f31164b9f4886
+      internalID: -939947167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic BuildUp spell symbol 256x256 Green_21
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 831
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd4d3b3c624a6247b2263282e09a033
+      internalID: -47860599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic BuildUp spell symbol 256x256 Green_22
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 868
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93730a467e84114cba7f7fb90c05efc
+      internalID: 1423009685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic BuildUp spell symbol 256x256 Green_23
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 834
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33225d6ae580f9d4db8ae346fa2c3664
+      internalID: -1635913145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic BuildUp spell symbol 256x256 Green_24
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 843
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da24a2472748ef3438e27943d6d09d87
+      internalID: -2093627231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic BuildUp spell symbol 256x256 Green_25
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 844
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b2e136e8c3eeb469a5bffe612dbaee
+      internalID: 1683022283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic BuildUp spell symbol 256x256 Green_26
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 845
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf4d5470c8c90945a35e2d296f846dd
+      internalID: 63079312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic BuildUp spell symbol 256x256 Green_27
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 844
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1284c84f64405ac4ba4c96f3e672d952
+      internalID: -432680422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic BuildUp spell symbol 256x256 Green_28
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 837
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2bac60bc9efa540971b03b6d035e97
+      internalID: 1087260425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic BuildUp spell symbol 256x256 Green_29
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 838
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4521d4fddcad44a8fa3434f1715edb
+      internalID: 1594830058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic BuildUp spell symbol 256x256 Green_30
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 840
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9166896425cfe4cb5344e0b7d38ca0
+      internalID: 1654162403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic BuildUp spell symbol 256x256 Green_31
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 839
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234068254cc8fae4cbe553e375b7d2ef
+      internalID: -820732267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic BuildUp spell symbol 256x256 Green_32
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 831
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a04ac09930c7244ba9bbb01eb7e162f
+      internalID: -1514773762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic BuildUp spell symbol 256x256 Green_33
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 833
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11bba67479df19498356de36c62cc39
+      internalID: -381731167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic BuildUp spell symbol 256x256 Green_34
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 810
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a95eabdfee44c488d8edf2a6729f43
+      internalID: -1256906554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic BuildUp spell symbol 256x256 Green_35
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 814
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3ca3809217c5e4d8a96f7ecfba66e2
+      internalID: 1940081333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic BuildUp spell symbol 256x256 Green_36
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 814
+        width: 54
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56dea8045d4cd34458d468a91edd9daa
+      internalID: -1924676980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic BuildUp spell symbol 256x256 Green_37
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 810
+        width: 51
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d631c44b519ab864ba32c2415ae5dbd5
+      internalID: -673708738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic BuildUp spell symbol 256x256 Green_38
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 810
+        width: 34
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e968b8b690be42a459f4d3149dbee578
+      internalID: -1620856825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic BuildUp spell symbol 256x256 Green_39
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 554
+        width: 166
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d97d78c73366641b991dbd8b4c4777
+      internalID: -1853615518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic BuildUp spell symbol 256x256 Green_40
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 554
+        width: 166
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36cbf6e4790d9dc428d10eef8d6891b5
+      internalID: 134219250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic BuildUp spell symbol 256x256 Green_41
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 554
+        width: 166
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ddd02c06750b0848bf2d9a0c43f1e73
+      internalID: 2089652858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic BuildUp spell symbol 256x256 Green_42
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 554
+        width: 166
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b5b467410b9e145830b7b07b5eea1d
+      internalID: 1904577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic BuildUp spell symbol 256x256 Green_43
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 292
+        width: 166
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73698aa37ee6dc846ad00a8730523377
+      internalID: 1293318993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic BuildUp spell symbol 256x256 Green_44
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 292
+        width: 166
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304479c7f8e93554d82ad58d236a4eca
+      internalID: -1822989709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic BuildUp spell symbol 256x256 Green_45
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 292
+        width: 173
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4562a0b3d68983a4d905c7830956c9db
+      internalID: 877368056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic BuildUp spell symbol 256x256 Green_46
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 292
+        width: 181
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be64e2b4c0a290348a96eaae54dbd562
+      internalID: -1773193818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic BuildUp spell symbol 256x256 Green_47
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 36
+        width: 184
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74828e8140bd594e8a6041dbfd55305
+      internalID: 544110415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic BuildUp spell symbol 256x256 Green_48
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 36
+        width: 184
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcef88077932e86429b461c6e404bacf
+      internalID: -839114198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic BuildUp spell symbol 256x256 Green_49
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 36
+        width: 184
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7634b0ee0f797be45b01fe8d36502bee
+      internalID: -1343236655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Round Magic BuildUp spell symbol 256x256 Green_50
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 36
+        width: 184
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852519fad177cad438624355823ce080
+      internalID: 817328274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Shield Round Magic BuildUp spell symbol 256x256 Green_0: -914716533
+      Shield Round Magic BuildUp spell symbol 256x256 Green_1: -1675272955
+      Shield Round Magic BuildUp spell symbol 256x256 Green_10: -1303463381
+      Shield Round Magic BuildUp spell symbol 256x256 Green_11: -619089440
+      Shield Round Magic BuildUp spell symbol 256x256 Green_12: -698971148
+      Shield Round Magic BuildUp spell symbol 256x256 Green_13: -304458441
+      Shield Round Magic BuildUp spell symbol 256x256 Green_14: 1607819681
+      Shield Round Magic BuildUp spell symbol 256x256 Green_15: 195343194
+      Shield Round Magic BuildUp spell symbol 256x256 Green_16: 1530410449
+      Shield Round Magic BuildUp spell symbol 256x256 Green_17: 981066064
+      Shield Round Magic BuildUp spell symbol 256x256 Green_18: -741985907
+      Shield Round Magic BuildUp spell symbol 256x256 Green_19: 1069946178
+      Shield Round Magic BuildUp spell symbol 256x256 Green_2: -281290936
+      Shield Round Magic BuildUp spell symbol 256x256 Green_20: -939947167
+      Shield Round Magic BuildUp spell symbol 256x256 Green_21: -47860599
+      Shield Round Magic BuildUp spell symbol 256x256 Green_22: 1423009685
+      Shield Round Magic BuildUp spell symbol 256x256 Green_23: -1635913145
+      Shield Round Magic BuildUp spell symbol 256x256 Green_24: -2093627231
+      Shield Round Magic BuildUp spell symbol 256x256 Green_25: 1683022283
+      Shield Round Magic BuildUp spell symbol 256x256 Green_26: 63079312
+      Shield Round Magic BuildUp spell symbol 256x256 Green_27: -432680422
+      Shield Round Magic BuildUp spell symbol 256x256 Green_28: 1087260425
+      Shield Round Magic BuildUp spell symbol 256x256 Green_29: 1594830058
+      Shield Round Magic BuildUp spell symbol 256x256 Green_3: 1035347416
+      Shield Round Magic BuildUp spell symbol 256x256 Green_30: 1654162403
+      Shield Round Magic BuildUp spell symbol 256x256 Green_31: -820732267
+      Shield Round Magic BuildUp spell symbol 256x256 Green_32: -1514773762
+      Shield Round Magic BuildUp spell symbol 256x256 Green_33: -381731167
+      Shield Round Magic BuildUp spell symbol 256x256 Green_34: -1256906554
+      Shield Round Magic BuildUp spell symbol 256x256 Green_35: 1940081333
+      Shield Round Magic BuildUp spell symbol 256x256 Green_36: -1924676980
+      Shield Round Magic BuildUp spell symbol 256x256 Green_37: -673708738
+      Shield Round Magic BuildUp spell symbol 256x256 Green_38: -1620856825
+      Shield Round Magic BuildUp spell symbol 256x256 Green_39: -1853615518
+      Shield Round Magic BuildUp spell symbol 256x256 Green_4: -1976982537
+      Shield Round Magic BuildUp spell symbol 256x256 Green_40: 134219250
+      Shield Round Magic BuildUp spell symbol 256x256 Green_41: 2089652858
+      Shield Round Magic BuildUp spell symbol 256x256 Green_42: 1904577
+      Shield Round Magic BuildUp spell symbol 256x256 Green_43: 1293318993
+      Shield Round Magic BuildUp spell symbol 256x256 Green_44: -1822989709
+      Shield Round Magic BuildUp spell symbol 256x256 Green_45: 877368056
+      Shield Round Magic BuildUp spell symbol 256x256 Green_46: -1773193818
+      Shield Round Magic BuildUp spell symbol 256x256 Green_47: 544110415
+      Shield Round Magic BuildUp spell symbol 256x256 Green_48: -839114198
+      Shield Round Magic BuildUp spell symbol 256x256 Green_49: -1343236655
+      Shield Round Magic BuildUp spell symbol 256x256 Green_5: 467456580
+      Shield Round Magic BuildUp spell symbol 256x256 Green_50: 817328274
+      Shield Round Magic BuildUp spell symbol 256x256 Green_6: -1148320894
+      Shield Round Magic BuildUp spell symbol 256x256 Green_7: -1002836226
+      Shield Round Magic BuildUp spell symbol 256x256 Green_8: 2002592530
+      Shield Round Magic BuildUp spell symbol 256x256 Green_9: -1518677329
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
